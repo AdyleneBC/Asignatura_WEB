@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalogo>
+    <libro id="L001">
+        <titulo>El principito</titulo>
+        <autor>Antoine de Saint-Exupery</autor>
+        <anio>1943</anio>
+        <precio>180.50</precio>
+        <categoria>Literatura</categoria>
+    </libro>
+
+    <libro id="L002">
+        <titulo>Cien años de soledad</titulo>
+        <autor>Gabriel Garcia Marquez</autor>
+        <anio>1967</anio>
+        <precio>250.00</precio>
+        <categoria>Novela</categoria>
+    </libro>
+
+    <libro id="L003">
+        <titulo>Don Quijote de la Mancha</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <anio>1605</anio>
+        <precio>320.00</precio>
+        <categoria>Clasico</categoria>
+    </libro>
+
+    <libro id="L004">
+        <titulo>Clean Code</titulo>
+        <autor>Robert C. Martin</autor>
+        <anio>2008</anio>
+        <precio>450.00</precio>
+        <categoria>Programacion</categoria>
+    </libro>
+
+    <libro id="L005">
+        <titulo>Introduccion a los algoritmos</titulo>
+        <autor>Thomas H. Cormen</autor>
+        <anio>2009</anio>
+        <precio>520.00</precio>
+        <categoria>Ciencia de la computacion</categoria>
+    </libro>
+</catalogo>
