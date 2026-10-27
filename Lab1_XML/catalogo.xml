@@ -1,43 +1,44 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 
 <catalogo>
     <libro id="L001">
-        <titulo>El principito</titulo>
-        <autor>Antoine de Saint-Exupery</autor>
-        <anio>1943</anio>
-        <precio>180.50</precio>
-        <categoria>Literatura</categoria>
+        <titulo>After</titulo>
+        <autor>Anna Todd</autor>
+        <anio>2014</anio>
+        <precio>299.00</precio>
+        <categoria>Romance - Adaptada a pelicula</categoria>
     </libro>
 
     <libro id="L002">
-        <titulo>Cien años de soledad</titulo>
-        <autor>Gabriel Garcia Marquez</autor>
-        <anio>1967</anio>
+        <titulo>The Kissing Booth</titulo>
+        <autor>Beth Reekles</autor>
+        <anio>2012</anio>
         <precio>250.00</precio>
-        <categoria>Novela</categoria>
+        <categoria>Romance juvenil - Adaptada a pelicula</categoria>
     </libro>
 
     <libro id="L003">
-        <titulo>Don Quijote de la Mancha</titulo>
-        <autor>Miguel de Cervantes</autor>
-        <anio>1605</anio>
-        <precio>320.00</precio>
-        <categoria>Clasico</categoria>
+        <titulo>A traves de mi ventana</titulo>
+        <autor>Ariana Godoy</autor>
+        <anio>2016</anio>
+        <precio>280.00</precio>
+        <categoria>Romance juvenil - Adaptada a pelicula</categoria>
     </libro>
 
     <libro id="L004">
-        <titulo>Clean Code</titulo>
-        <autor>Robert C. Martin</autor>
-        <anio>2008</anio>
-        <precio>450.00</precio>
-        <categoria>Programacion</categoria>
+        <titulo>Mi vida con los chicos Walter</titulo>
+        <autor>Ali Novak</autor>
+        <anio>2014</anio>
+        <precio>320.00</precio>
+        <categoria>Romance juvenil - Adaptada a serie</categoria>
     </libro>
 
     <libro id="L005">
-        <titulo>Introduccion a los algoritmos</titulo>
-        <autor>Thomas H. Cormen</autor>
-        <anio>2009</anio>
-        <precio>520.00</precio>
-        <categoria>Ciencia de la computacion</categoria>
+        <titulo>Java: Como programar</titulo>
+        <autor>Paul Deitel y Harvey Deitel</autor>
+        <anio>2017</anio>
+        <precio>650.00</precio>
+        <categoria>Programacion - Java</categoria>
     </libro>
 </catalogo>
